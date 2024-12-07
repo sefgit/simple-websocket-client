@@ -1,4 +1,4 @@
-# Simple Javascript Websocket Client
+# Simple Javascript [Websocket Client](://echo.html)
 
 A very simple html / javascript WebSocket client, that can be used to test my [Simple Websocket Server in Play!](https://github.com/ticofab/simple-play-websocket-server).
 
